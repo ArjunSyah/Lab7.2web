@@ -16,7 +16,7 @@
 </aside>
 </section>
 <footer>
-    <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+    <p>&#169 2023 <a href="#">Arjun Syah</a> - Universitas Pelita Bangsa</p>
 </footer>
 </div>
 </body>
